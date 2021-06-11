@@ -74,10 +74,8 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 <img src="https://user-images.githubusercontent.com/77089164/121701437-de531e00-cb0b-11eb-986a-0bc9cd258664.jpg">
 <br />
-![api_2](/uploads/a7c3ab6d87ab34ec7fe860e9ef81a90f/api_2.jpg)
 <img src="https://user-images.githubusercontent.com/77089164/121701445-df844b00-cb0b-11eb-8c90-b2c434b84117.jpg">
 <br />
-![api_3](/uploads/59e5900a4e90e936a92db6eb37a306a1/api_3.jpg)
 <img src="https://user-images.githubusercontent.com/77089164/121701451-e0b57800-cb0b-11eb-827a-ec7c7f4d0e24.jpg">
 
 &nbsp;
@@ -88,11 +86,11 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 # 🛒주요기능
 
-![메인_1](/uploads/4c20d46648a890ad742190f2788893d1/메인_1.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702048-7d781580-cb0c-11eb-8f79-33e5f3454d92.jpg">
 <br />
-![메인_2](/uploads/b11534176bb60f147c016075d1e193f7/메인_2.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702038-7c46e880-cb0c-11eb-8bcf-681c1d96f5cb.jpg">
 <br />
-![메인_3](/uploads/b695086209b89bd56cf63ca96edf855e/메인_3.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702045-7d781580-cb0c-11eb-916d-e58153cc59c0.jpg">
 
 ## 1. 테마 별 상품 조회
 ## 2. 상품 카드화로 간편하게 정보 확인
@@ -155,7 +153,7 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 ### 소스트리(Sourcetree)
 
-![소스트리](/uploads/b795ae873572fb860ebad31b541c48e7/소스트리.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702227-a8626980-cb0c-11eb-957c-7b9156d67457.png">
 
 - 소스트리를 활용하여 깃을 체계적으로 관리했습니다.
 - branch를 쉽게 생성하며, 어떤 branch가 존재하는지 파악하기 쉽습니다.
@@ -198,4 +196,4 @@ exec dir 를 참조해주세요!
 
 <h2>지금까지 <strong style="color: green; font-size: 45px;">더치페이</strong>의 리드미였습니다. <br/> 감사합니다!</h2>
 
-![A103_기획발표](/uploads/82c2c8bfe89b7df58215cfb7b2d89602/A103_기획발표.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121702330-bd3efd00-cb0c-11eb-8737-d644f53769f1.jpg">
