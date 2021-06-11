@@ -19,7 +19,6 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 - 리퍼브 상품들은 재고로 처리되며 시간이 지나면 점점 가치가 하락한다는 공통점이 있습니다.
 - 따라서 리퍼브 상품에 하향식 경매를 적용해 시간에 따라 가치가 달라지는 점을 반영했습니다.
 </p>
----
 
 &nbsp;
 &nbsp;
@@ -52,7 +51,8 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 # 💡기획배경
 
-![A103_기획발표](/uploads/81ae4b2081d5c2ceebee714fdf1867f4/A103_기획발표.png)
+
+<img src="https://user-images.githubusercontent.com/77089164/121698872-6552c700-cb09-11eb-9a44-71ff11729189.png">
 
 &nbsp;
 &nbsp;
