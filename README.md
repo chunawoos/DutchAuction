@@ -64,7 +64,7 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 ## [와이어 프레임](https://www.figma.com/file/6Qi8Xm9QdUBCSITZJSI4Qw/%EC%9E%90%EC%9C%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0%3A1)
 
-![Image_Pasted_at_2021-5-20_16-37](/uploads/62c28d740bc3274f52439764adedbc5e/Image_Pasted_at_2021-5-20_16-37.png)
+<img src="https://user-images.githubusercontent.com/77089164/121699515-f88bfc80-cb09-11eb-8f93-3da6284a56d3.jpg">
 
 ## [ERD](https://www.erdcloud.com/d/Q2J7PtKbnRL55vnw4)
 
