@@ -8,7 +8,7 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 <p style="padding: 15px">
 <img src="https://img.shields.io/static/v1?label=SSAFY&message=4%EA%B8%B0&color=0ABAB5">
-<img src="https://img.shields.io/static/v1?label=Seoul&message=Class 1&color=00a3d2">
+<img src="https://img.shields.io/static/v1?label=서울&message=1반&color=00a3d2">
 <img src="https://img.shields.io/static/v1?label=Domain&message=AutonomyProject&color=ABF200">
 </p>
 
