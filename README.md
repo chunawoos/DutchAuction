@@ -3,13 +3,13 @@
 SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치페이</span>입니다.
 
 <p align="center">
-![내__2_-removebg-preview](https://user-images.githubusercontent.com/77089164/121697057-a5b14580-cb07-11eb-9b7a-aad37a08393d.png)
+<img src="https://user-images.githubusercontent.com/77089164/121697057-a5b14580-cb07-11eb-9b7a-aad37a08393d.png">
 
 
 <p style="padding: 15px">
 <img src="https://img.shields.io/static/v1?label=SSAFY&message=4%EA%B8%B0&color=0ABAB5">
-<img src="https://img.shields.io/static/v1?label=서울&message=1반&color=00a3d2">
-<img src="https://img.shields.io/static/v1?label=Domain&message=자율프로젝트&color=ABF200">
+<img src="https://img.shields.io/static/v1?label=Seoul&message=Class 1&color=00a3d2">
+<img src="https://img.shields.io/static/v1?label=Domain&message=AutonomyProject&color=ABF200">
 </p>
 
 - 리퍼브 상품에 하향식 경매를 이용해 판매하는 쇼핑몰 프로젝트입니다.
