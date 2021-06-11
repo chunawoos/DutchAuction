@@ -68,15 +68,17 @@ SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치�
 
 ## [ERD](https://www.erdcloud.com/d/Q2J7PtKbnRL55vnw4)
 
-![erd](/uploads/c0274eca643542e1cc651b14c3a3c806/erd.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121700074-7ea84300-cb0a-11eb-9d99-c74520d61236.png">
 
 ## [API Table](https://www.notion.so/API-ad638aad80a84f769262a9eabb2930d0)
 
-![api_1](/uploads/6c176f210da4fc37342adac4f9c1b3f7/api_1.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121701437-de531e00-cb0b-11eb-986a-0bc9cd258664.jpg">
 <br />
 ![api_2](/uploads/a7c3ab6d87ab34ec7fe860e9ef81a90f/api_2.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121701445-df844b00-cb0b-11eb-8c90-b2c434b84117.jpg">
 <br />
 ![api_3](/uploads/59e5900a4e90e936a92db6eb37a306a1/api_3.jpg)
+<img src="https://user-images.githubusercontent.com/77089164/121701451-e0b57800-cb0b-11eb-827a-ec7c7f4d0e24.jpg">
 
 &nbsp;
 &nbsp;
